@@ -2,4 +2,6 @@
 Proyecto del trabajo de fin de grado 'Analisis Biomecanico para ciclistas' creado por Carlos Jaynor Marquez Torres, Laura Perez Jambrina, Daniel Tocino Estrada.
 
 ## Video con angulos
-[![Resultado](imagenes/Resultado_video.jpg )](https://www.youtube.com/watch?v=BZ6KDBuNCKQ)
+<div align='center'>
+  <img src='imagenes/Resultado_video.jpg' width='400px'>
+</div>
