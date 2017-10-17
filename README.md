@@ -3,5 +3,5 @@ Proyecto del trabajo de fin de grado 'Analisis Biomecanico para ciclistas' cread
 
 ## Video con angulos
 <div align='center'>
-  <img href ='https://www.youtube.com/watch?v=BZ6KDBuNCKQ' src='imagenes/Resultado_video.jpg' width='400px'>
+  <img href ="https://www.youtube.com/watch?v=BZ6KDBuNCKQ" src='imagenes/Resultado_video.jpg' width='400px'>
 </div>
